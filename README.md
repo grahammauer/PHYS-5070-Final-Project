@@ -8,7 +8,7 @@ I ended up making a little writeup in `FinalProject.ipynb`. It contains some of 
 
 `FunctionScripts.ipynb` : This notebook writes the functions for me in a way such that the integrator can understand them
 
-'five_object_solar_system.py' : This file is an example of the output from `FunctionScripts.ipynb`
+`five_object_solar_system.py` : This file is an example of the output from `FunctionScripts.ipynb`
 
 `Mars_1.0_0.0_0.25.csv` : This is an example of a file where I saved the time, positions, and momentums for Mars over one path. I only included 1/25th of the values to keep the size down. Each shooting trial requires ~8mb of hard drive space for this method. 
 
